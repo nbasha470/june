@@ -5,3 +5,4 @@ stages
 - staging
 - local repo
 - remote repo [git hub]
+need to terminate all the instance and need to creat new instance for jenkins and re do the process again
